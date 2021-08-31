@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFCReaderDemo</string>
+    <string name="initial_msg">Per favore appoggia il dispositivo vicino a un tessera Mifare!</string>
+</resources>
